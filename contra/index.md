@@ -15,10 +15,10 @@ better or updated solutions.
 
 * **PragmaMx**
   The PragmaNx CMS was used by and integrated into the Webfan Site many years ago, I developed and contributed
-  some modules and modificationsa and recommended the usage of the CMS.
+  some modules and modifications and recommended the usage of the CMS.
   PragmaMx is still running on Webhosting Customers Pages, but I stopped to use PragmaMx on my websites,
-  do not develop anything related to the CMS and I do not recommend to use it anymore.
-  I just do not find it useful to integrate it in modern projects anymore, although it does a good job for me once.
+  do not develop anything related to the CMS and I do not recommend to use it anymore but suggest to migrate.
+  I just do not find it useful to integrate it in modern projects anymore, although it does a good job for me once!
   
   
   
