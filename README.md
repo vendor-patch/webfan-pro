@@ -10,5 +10,6 @@ A *PRO-attributed by Webfan* item MUST be either...
 * *pro*fessional solution used, embedded, sold, provieded, managed, advertised or just loved by Webfan
 *  ~~<s>Reuseable or cloneable</s>~~ <--- could not find our attributes word WTF ;-)
 *  ~~<s>stitution</s>~~ <--- really WTF dont use it, not my business! 
+*  prosit!
 
   [![The PRO Attribute - Webfantized for You and We.](https://cdn.webfan.de/@webfan3/website/logos/pro-webfan.png)](https://webfan.pro) 
