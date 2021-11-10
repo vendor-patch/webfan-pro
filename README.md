@@ -12,4 +12,14 @@ A *PRO-attributed by Webfan* item MUST be either...
 *  ~~<s>stitution</s>~~ <--- really WTF dont use it, not my business! 
 *  prosit!
 
+# Status
+The project just have lunched and want to `start` releasing a the beginning ~2022.
+
+## FAQ
+[FAQ](faq/)
+
+## `CON`
+[`CON`TRADICTION](contra/)
+
+
   [![The PRO Attribute - Webfantized for You and We.](https://cdn.webfan.de/@webfan3/website/logos/pro-webfan.png)](https://webfan.pro) 
