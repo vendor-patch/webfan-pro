@@ -10,7 +10,7 @@ So if you will find anything here attributed as `PRO` and you think it should NO
 ...
 
 # Removed from portifolio
-Sometimes, although one software or paradigmam may have worked well for long time, there could happen a EndOfLife, deprecations, end of support, or just 
+Sometimes, although one software or paradigma may have worked well for long time, there could happen a EndOfLife, deprecations, end of support, or just 
 better or updated solutions.
 
 * **PragmaMx**
