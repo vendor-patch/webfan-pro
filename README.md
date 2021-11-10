@@ -7,7 +7,7 @@ A `PRO`-attributed work must not fullify all `PRO`-properties but at least one o
 A *PRO-attributed by Webfan* item MUST be either...
 * *pro*duct or *pro*ject
 * run in or build for *pro*duction deployments
-* *pro*fessional solution used, embedded, sold, provieded, managed, advertised or just loved by Webfan
+* *pro*fessional solution used, embedded, sold, provided, managed, advertised or just loved by Webfan
 *  ~~<s>Reuseable or cloneable</s>~~ <--- could not find our attributes word WTF ;-)
 *  ~~<s>stitution</s>~~ <--- really WTF dont use it, not my business! 
 *  prosit!
