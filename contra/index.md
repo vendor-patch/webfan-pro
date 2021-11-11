@@ -40,6 +40,10 @@ better or updated solutions.
          oder ist **nicht vorhanden**.
   * * 3.) Der Facebook/Meta-Konzern fühlt sich im Grundsatz und in seinem Kernverhalten **NICHT an gesetzliche Vorgaben** irgendeiner Art gebunden.
   
+    ~~<s>Till Wehowski ist bei Facebook. Tritt Facebook bei, um dich mit Till Wehowski und anderen Nutzern, die du kennst, zu vernetzen. Facebook gibt Menschen...</s>~~
+    ~~<s>Till Wehowski is on Facebook. Join Facebook to connect with Till Wehowski and others you may know. Facebook gives people the power to share and makes the...</s>~~
+    ~~<s>Till Wehowski есть на Facebook. Присоединяйтесь к Facebook, чтобы связаться с Till Wehowski и найти других друзей. Facebook предоставляет возможность...</s>~~
+    ~~<s>Till Wehowski er på Facebook. Bliv medlem af Facebook, og få kontakt med Till Wehowski og andre, du måske kender. Facebook giver folk mulighed for at...</s>~~
     **I deactivated my Facebook Account now and NEVER will use Facebook again and I do not like to learn anything about Meta!**
 
    *Summary:*
