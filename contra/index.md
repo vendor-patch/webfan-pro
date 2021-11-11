@@ -14,13 +14,22 @@ So if you will find anything here attributed as `PRO` and you think it should NO
 Sometimes, although one software or paradigma may have worked well for long time, there could happen a EndOfLife, deprecations, end of support, or just 
 better or updated solutions.
 
-* **PragmaMx**
+* # **PragmaMx**
   The PragmaNx CMS was used by and integrated into the Webfan Site many years ago, I developed and contributed
   some modules and modifications and recommended the usage of the CMS.
   PragmaMx is still running on Webhosting Customers Pages, but I stopped to use PragmaMx on my websites,
   do not develop anything related to the CMS and I do not recommend to use it anymore but suggest to migrate.
   I just do not find it useful to integrate it in modern projects anymore, although it does a good job for me once!
   
+* # **Facebook**  
+  **Facebook, now called Meta behaves anti-democratic and definitly violates my personal humn rights!**
+  I can only explain this in German language:
+  * Beiträge welche den **Tatbestand der Volksverhetzung** (oder gar noch schlimmere Vergehen?) erfüllen werden vom Facebook-Konzern/Meta trotz mehrfacher Meldung offen geduldet 
+    oder gar gefördert!
+  * **Zweifelsfrei** `PRO`-**demokratische** Beiträge werden **systematisch diskriminiert** wobei folgendes "System" Anwendung findet:
+    1.) Die Diskrimierung durch Sperrung erfolgt entweder ganz kommentarlos oder vorgeblich aufgrund von Verwendung bestimmter **einzelner Wörter**.
+    2.) Eine **Kontextanalyse** oder eine Überprüfung der Beiträge auf Ihre **inhaltliche Bedeutung** funktioniert nicht oder ist **nicht vorhanden**.
+    3.) Der Facebook/Meta-Konzern fühlt sich im Grundsatz und in seinem Kernverhalten **NICHT an gesetzliche Vorgaben** irgendeiner Art gebunden.
   
-  
+    **I deactivated my Facebook Account now and NEVER will use Facebook again and I do not like to learn anything about Meta!**
 
