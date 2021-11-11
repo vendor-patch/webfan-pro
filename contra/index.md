@@ -38,7 +38,7 @@ better or updated solutions.
   
     **I deactivated my Facebook Account now and NEVER will use Facebook again and I do not like to learn anything about Meta!**
 
-    *Summary:*
-    * 👏 My technical user experiance I made with Facebook was **medium**.
-    * 👎 My personal user experiance I made with Facebook and its community was **unusable**.
-    * 😡 Facebok **IST** faktisch **antidemokratisch**, ganz unabhängig von meinem persönlichen Empfinden!
+   *Summary:*
+   * 👏 My technical user experiance I made with Facebook was **medium**.
+   * 👎 My personal user experiance I made with Facebook and its community was **unusable**.
+   * 😡 Facebok **IST** faktisch **antidemokratisch**, ganz unabhängig von meinem persönlichen Empfinden!
