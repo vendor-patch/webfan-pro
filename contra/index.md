@@ -27,7 +27,7 @@ better or updated solutions.
   * ❤ Als Fazit zum Abschied ein Herz für PragmaMx.
   
 * # **Facebook**  
-  **Facebook, now called Meta behaves anti-democratic and definitly violates my personal humn rights!**
+  **Facebook, now called Meta behaves anti-democratic and definitly violates my personal human rights!**
   I can only explain this in German language:
   * Beiträge welche den **Tatbestand der Volksverhetzung** (oder gar noch schlimmere Vergehen?) erfüllen werden vom Facebook-Konzern/Meta trotz mehrfacher Meldung offen geduldet 
     oder gar gefördert!
