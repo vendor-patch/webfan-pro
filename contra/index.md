@@ -14,6 +14,7 @@ So if you will find anything here attributed as `PRO` and you think it should NO
 Sometimes, although one software or paradigma may have worked well for long time, there could happen a EndOfLife, deprecations, end of support, or just 
 better or updated solutions.
 
+<a name="PragmaMx"></a>
 * # **PragmaMx**
   The PragmaNx CMS was used by and integrated into the Webfan Site many years ago, I developed and contributed
   some modules and modifications and recommended the usage of the CMS.
@@ -25,7 +26,8 @@ better or updated solutions.
   * 👏 My technical user experiance I made with PragmaMx was **medium**.
   * 👍 My personal user experiance I made with PragmaMx and its community was **positive** (overall).
   * ❤ Als Fazit zum Abschied ein Herz für PragmaMx.
-  
+
+<a name="Facebook"></a>  
 * # **Facebook**  
   **Facebook, now called Meta behaves anti-democratic and definitly violates my personal human rights!**
   
