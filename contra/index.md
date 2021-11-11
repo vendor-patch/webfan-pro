@@ -21,7 +21,7 @@ better or updated solutions.
   do not develop anything related to the CMS and I do not recommend to use it anymore but suggest to migrate.
   I just do not find it useful to integrate it in modern projects anymore, although it does a good job for me once!
   
-*Summary:*
+  *Summary:*
   * 👏 My technical user experiance I made with PragmaMx was **medium**.
   * 👍 My personal user experiance I made with PragmaMx and its community was **positive** (overall).
   * ❤ Als Fazit zum Abschied ein Herz für PragmaMx.
@@ -37,8 +37,8 @@ better or updated solutions.
     3.) Der Facebook/Meta-Konzern fühlt sich im Grundsatz und in seinem Kernverhalten **NICHT an gesetzliche Vorgaben** irgendeiner Art gebunden.
   
     **I deactivated my Facebook Account now and NEVER will use Facebook again and I do not like to learn anything about Meta!**
-    
-*Summary:*
-  * 👏 My technical user experiance I made with Facebook was **medium**.
-  * 👎 My personal user experiance I made with Facebook and its community was **unusable**.
-  * 😡 Facebok **IST** faktisch **antidemokratisch**, ganz unabhängig von meinem persönlichen Empfinden!
+
+    *Summary:*
+    * 👏 My technical user experiance I made with Facebook was **medium**.
+    * 👎 My personal user experiance I made with Facebook and its community was **unusable**.
+    * 😡 Facebok **IST** faktisch **antidemokratisch**, ganz unabhängig von meinem persönlichen Empfinden!
