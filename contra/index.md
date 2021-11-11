@@ -33,10 +33,10 @@ better or updated solutions.
   * Beiträge welche den **Tatbestand der Volksverhetzung** (oder gar noch schlimmere Vergehen?) erfüllen werden vom Facebook-Konzern/Meta trotz mehrfacher Meldung offen geduldet 
     oder gar gefördert!
   * **Zweifelsfrei** `PRO`-**demokratische** Beiträge werden **systematisch diskriminiert** wobei folgendes "System" Anwendung findet: 
-   * 1.) Die Diskrimierung durch Sperrung erfolgt entweder ganz kommentarlos oder vorgeblich aufgrund von Verwendung bestimmter **einzelner Wörter**.
-   * 2.) Eine **Kontextanalyse** oder eine Überprüfung der Beiträge auf Ihre **inhaltliche Bedeutung** funktioniert nicht 
+  * * 1.) Die Diskrimierung durch Sperrung erfolgt entweder ganz kommentarlos oder vorgeblich aufgrund von Verwendung bestimmter **einzelner Wörter**.
+  * * 2.) Eine **Kontextanalyse** oder eine Überprüfung der Beiträge auf Ihre **inhaltliche Bedeutung** funktioniert nicht 
          oder ist **nicht vorhanden**.
-   * 3.) Der Facebook/Meta-Konzern fühlt sich im Grundsatz und in seinem Kernverhalten **NICHT an gesetzliche Vorgaben** irgendeiner Art gebunden.
+  * * 3.) Der Facebook/Meta-Konzern fühlt sich im Grundsatz und in seinem Kernverhalten **NICHT an gesetzliche Vorgaben** irgendeiner Art gebunden.
   
     **I deactivated my Facebook Account now and NEVER will use Facebook again and I do not like to learn anything about Meta!**
 
